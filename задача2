@@ -1,0 +1,23 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        int red;
+
+        red = 10;
+        int gold = 100;
+        int grey = red + gold;
+
+        int q = 5;
+        double w = 5.5;
+        sbyte e = -10;
+        float r = 10.5f;
+        string t = "some string";
+        long u = 1000;
+        ushort i = 100;
+        decimal o = 99.99m;
+        byte p = 1;
+    }
+}
