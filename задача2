@@ -11,13 +11,13 @@ class Program
         int armor = leather + melezo;
 
         int money = 5;
-        double w = 5.5;
-        sbyte e = -10;
-        float r = 10.5f;
-        string t = "some string";
-        long u = 1000;
-        ushort i = 100;
-        decimal o = 99.99m;
-        byte p = 1;
+        double ore = 5.5;
+        sbyte gas = -10;
+        float energy = 10.5f;
+        string name = "some string";
+        long aluminum = 1000;
+        ushort oil = 100;
+        decimal tin = 99.99m;
+        byte magnesium = 1;
     }
 }
